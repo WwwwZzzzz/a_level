@@ -1,0 +1,31 @@
+.element {
+  width: 350px;
+  height: 220px;
+  padding: 15px 10px 20px;
+  margin: 30px;
+  border: dashed 2px red;
+  background-color: green;
+}
+
+.example {
+  width: 50%;
+  margin-left: 30px;
+}
+
+.example .img-1 {
+  width: 250px;
+  float: left;
+  margin: 0 20px 20px 0;
+}
+
+.example .img-2 {
+  width: 200px;
+  float: right;
+  margin: 20px 0 20px 20px;
+}
+
+.example p {
+    text-align: justify;
+    letter-spacing: 0.5px;
+    line-height: 1.2;
+}

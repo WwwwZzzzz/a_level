@@ -1,0 +1,10 @@
+.bg-box {
+  width: 600px;
+  height: 350px;
+  background: url(../image/grass.png) bottom/auto 150px repeat-x local,
+    url(../image/lamp.png) top/auto 40px repeat-x local,
+    url(../image/donat.png) right/auto 20px repeat-y local,
+    url(../image/house.jpg) center/300px auto no-repeat, local,
+    url(../image/hedgehog.png) left/auto 15px repeat-y local, rgb(42, 112, 10);
+  margin: 0 auto;
+}

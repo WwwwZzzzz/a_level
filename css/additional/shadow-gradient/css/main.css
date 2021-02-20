@@ -1,0 +1,20 @@
+.box-shadow-wrap,
+.radial-gradient-wrap {
+  padding: 20px;
+  margin: 0 auto;
+}
+
+.radial-gradient {
+  width: 200px;
+  height: 200px;
+  background:
+radial-gradient(circle, black 50% , green 50%, green 55%, red 55%, red 60%, blue 60%,  blue 65%, white 65%);
+}
+
+.box-shadow {
+    width: 200px;
+    height: 200px;
+    box-shadow: 0px 0px 0px 5px #0f0, 0px 0px 0px 10px #f00, 0px 0px 0px 15px #00f ;
+    border-radius: 50%;
+    background-color: #000;
+}
